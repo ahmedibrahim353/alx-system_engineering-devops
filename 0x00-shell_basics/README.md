@@ -141,7 +141,64 @@ julien@ubuntu:/tmp$ ./lll
 lll
 julien@ubuntu:/tmp$ 
 Quiz questions
-Great! You've completed the quiz successfully! Keep going! (Show quiz)
+Great! You've completed the quiz successfully! Keep going! (Hide quiz)
+Question #0
+How do you change directory on Linux?
+
+
+ls
+
+
+pwd
+
+
+cd
+
+
+which
+
+Question #1
+What does RTFM stand for?
+
+
+Read The F** Manual
+
+
+Remember The First Manipulation
+
+
+Read, Teach, Forget, Migrate
+
+Question #2
+What command would you use to list files on Linux?
+
+
+ls
+
+
+which
+
+
+pwd
+
+
+cd
+
+
+list
+
+Question #3
+What does LTS stand for?
+
+
+Last Terrible Service
+
+
+Long Term Support
+
+
+Long Time Support
+
 Tasks
 0. Where am I?
 mandatory
